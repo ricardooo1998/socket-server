@@ -1,19 +1,10 @@
 # Socket-Server
 
 Generar los módulos de node
-```
-npm i
-
-```
+```npm i```
 
 Generar el Dist
-```
-tsc -w
-
-```
+```tsc -w```
 
 Levantar el servidor
-```
-nodemon dist/
-
-```
+```nodemon dist/```
